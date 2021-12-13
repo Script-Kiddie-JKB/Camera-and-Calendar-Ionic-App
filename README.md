@@ -6,8 +6,8 @@ Powered by [Ionic Angular](https://ionicframework.com/docs/angular/overview) (we
 
 ## App Preview
 
-<img src='https://telegra.ph/file/cb240bb8b78d85fa9de38.png' width='300' height='600'>
-<img src='https://telegra.ph/file/a7b44e68e127159cc9064.png' width='400' height='450'>
+<img src='https://telegra.ph/file/cb240bb8b78d85fa9de38.png' width='150' height='300'> <img src='https://telegra.ph/file/a7b44e68e127159cc9064.png' width='280' height='300'>
+
 
 
 ## How It Works
