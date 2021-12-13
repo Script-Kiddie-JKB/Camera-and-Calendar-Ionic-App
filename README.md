@@ -4,6 +4,12 @@ Get started with Ionic by building a photo gallery app that runs on iOS, Android
 
 Powered by [Ionic Angular](https://ionicframework.com/docs/angular/overview) (web app) and [Capacitor](https://capacitor.ionicframework.com) (native app runtime).
 
+## App Preview
+
+<img src='https://telegra.ph/file/cb240bb8b78d85fa9de38.png' width='300' height='600'>
+<img src='https://telegra.ph/file/a7b44e68e127159cc9064.png' width='400' height='450'>
+
+
 ## How It Works
 
 After the user navigates to Tab 2 (Photos), they can tap/click on the camera button to open up the device's camera. After taking or selecting a photo, it's stored permanently into the device's filesystem. When the user reopens the app at a later time, the photo images are loaded from the filesystem and displayed again in the gallery. The user can tap on a photo to be presented with the option to remove the photo.
